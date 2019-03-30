@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Parcial", "MVC Parcial\MVC Parcial.csproj", "{4227F513-A481-45EA-B5FB-E40C9A437E47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API PARCIAL", "API PARCIAL\API PARCIAL.csproj", "{F4F1B1DA-3340-46ED-8053-16147B8635F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4227F513-A481-45EA-B5FB-E40C9A437E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4227F513-A481-45EA-B5FB-E40C9A437E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4227F513-A481-45EA-B5FB-E40C9A437E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F1B1DA-3340-46ED-8053-16147B8635F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F1B1DA-3340-46ED-8053-16147B8635F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F1B1DA-3340-46ED-8053-16147B8635F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F1B1DA-3340-46ED-8053-16147B8635F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
